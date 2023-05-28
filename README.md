@@ -6,6 +6,8 @@ I have over 6 months of experience working on significant Java projects as a bac
 
 I am always eager to seek out new opportunities to further develop my skills and contribute to more projects. 
 
+<!-- If you have any questions or would like to connect, please feel free to reach out to me at ngachann02@gmail.com. I am excited about potential collaborations and personal growth opportunities! -->
+
 #### 📫 How to reach me: 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Abilene-may)
@@ -16,9 +18,9 @@ I am always eager to seek out new opportunities to further develop my skills and
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abilene-may&repo=family-tree&theme=cobalt)](https://github.com/Abilene-may/family-tree)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abilene-may&repo=supermarket-management&theme=cobalt)](https://github.com/Abilene-may/supermarket-management)
 
 
-<!-- If you have any questions or would like to connect, please feel free to reach out to me at ngachann02@gmail.com. I am excited about potential collaborations and personal growth opportunities! -->
 <!--
 **Abilene-may/Abilene-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
