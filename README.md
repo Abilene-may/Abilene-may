@@ -1,10 +1,10 @@
 ### Welcome to my little corner of work! 👋
 
-Hello! I'm **Nga** , a 4th-year student with a passion for web programming. I am currently studying Computer Science specializing in web development.
+Hi, my name is **Nga**, I’m a senior student at the University, majoring in Computer Science. I’m really interested in web development.
 
-I have over 6 months of experience working on significant Java projects as a backend developer. During my internship, I gained valuable hands-on experience in Java programming and had the opportunity to work on various projects. This experience has allowed me to enhance my software development skills, problem-solving abilities, and collaboration within teams.
+I have been working as a backend developer using Java programming language for more than 6 months. During intern time, I gained valid hands-on experience in Java programming language and had chain to challenge myself on various projects. This experience has facilitated me to enhance my career as well as other skills including problem-solving, software, collaboration within teams.
 
-I am always eager to seek out new opportunities to further develop my skills and contribute to more projects. 
+I am always eager to seek out new opportunities to develop further skills.
 
 <!-- If you have any questions or would like to connect, please feel free to reach out to me at ngachann02@gmail.com. I am excited about potential collaborations and personal growth opportunities! -->
 
