@@ -12,7 +12,7 @@ I am always eager to seek out new opportunities to further develop my skills and
 
 ![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abilene-may&repo=IELTS-Essay-Scoring&theme=merko)](https://github.com/Abilene-may/supermarket-management)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abilene-may&repo=IELTS-Essay-Scoring&theme=merko)](https://github.com/Abilene-may/supermarket-management)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abilene-may&repo=Deep_learning&theme=cobalt)](https://github.com/Abilene-may/family-tree)
 
