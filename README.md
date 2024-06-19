@@ -5,15 +5,16 @@ I am always eager to seek out new opportunities to develop further skills.
 
 <!-- If you have any questions or would like to connect, please feel free to reach out to me at ngachann02@gmail.com. I am excited about potential collaborations and personal growth opportunities! -->
 
+![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=dark)
 
-![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=tokyonight)
+<!-- ![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=gruvbox)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abilene-may&repo=family-tree&theme=cobalt)](https://github.com/Abilene-may/family-tree)
+![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abilene-may&repo=supermarket-management&theme=cobalt)](https://github.com/Abilene-may/supermarket-management)
+![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=radical)
 
+![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=chartreuse-dark)
 
-<!--
 **Abilene-may/Abilene-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
