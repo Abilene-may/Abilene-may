@@ -1,31 +1,20 @@
 ### Welcome to my little corner of work! 👋
 
-Hi, my name is **Nga**, I’m a senior student at the University, majoring in Computer Science.
-I am always eager to seek out new opportunities to develop further skills.
-
-<!-- If you have any questions or would like to connect, please feel free to reach out to me at ngachann02@gmail.com. I am excited about potential collaborations and personal growth opportunities! -->
+Hi! I’m a software tester with a strong background in both manual and automated testing for web and mobile applications. My expertise includes designing and executing comprehensive test plans, collaborating with development teams to understand requirements, and ensuring high-quality releases. I’m skilled in using various tools such as SQL, Java (Spring Boot), JIRA, Postman, and Katalon. I’m passionate about improving testing processes and delivering reliable software solutions.
 
 ![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=radical)
 
-<!-- ![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=dark)
+### Languages:
+| Java | SQL | JavaScript |
+|------|-----|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
-![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=gruvbox)
+### Best Frameworks and Tools:
+| Java (Spring Boot) | Selenium | JIRA | Postman | Katalon |
+|--------------------|----------|------|---------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="JIRA" alt="JIRA" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/katalon/katalon-original.svg" title="Katalon" alt="Katalon" width="55" height="55"/> |
 
-![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=dark)
-
-![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=chartreuse-dark)
-
- **Abilene-may/Abilene-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Additional Tools:
+| GitHub | GitLab | Jira | PostgreSQL | IntelliJ |
+|--------|--------|------|------------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="55" height="55"/> |
