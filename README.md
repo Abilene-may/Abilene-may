@@ -1,20 +1,45 @@
-### Welcome to my little corner of work! 👋
+<h1 align="center">Welcome to my little corner of work! 👋</h1>
 
-Hi! I’m a software tester with a background in both manual and automated testing for web and mobile applications. My expertise includes designing and executing comprehensive test plans, collaborating with development teams to understand requirements, and ensuring high-quality releases. I’m skilled in using various tools such as SQL, Java (Spring Boot), JIRA, Postman, and Katalon. I’m passionate about improving testing processes and delivering reliable software solutions.
+<div>
+    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img height=200 align="right" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=abilene-may&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=300" alt="Most Used Languages" />
+</div>
 
-![Nga's github stats](https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=radical)
+<div align="center" style="clear: both; padding: 20px 0;">
+    <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=abilene-may&theme=radical" alt="GitHub Streak" />
+</div>
 
-### Languages:
-| Java | SQL | JavaScript |
-|------|-----|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://cdn-icons-png.freepik.com/512/4299/4299956.png" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+<div align="center" style="padding: 20px 0;">
+    <img src="https://github-profile-trophy.vercel.app/?username=abilene-may&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1" alt="GitHub Trophies" />
+</div>
 
-### Best Frameworks and Tools:
-| Java (Spring Boot) | Selenium | JIRA | Postman | Katalon |
-|--------------------|----------|------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="JIRA" alt="JIRA" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Katalon-logo-png.png" title="Katalon" alt="Katalon" width="55" height="55"/> |
+<div align="center" style="padding: 20px 0;">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abilene-may&theme=radical" height="180em" alt="Stats"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abilene-may&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abilene-may&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abilene-may&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abilene-may&theme=radical" height="180em" alt="Commitments"/>
+</div>
 
-### Additional Tools:
-| GitHub | GitLab | Jira | PostgreSQL | IntelliJ |
-|--------|--------|------|------------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="55" height="55"/> |
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="mailto:ngachann02@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="mail" height="80" width="80" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nguyen-thi-nga/" target="_blank">
+    <img align="center" src="https://lepaternel.com/wp-content/uploads/2018/06/square-linkedin-512.png" alt="LinkedIn" height="60" width="60" />
+  </a>
+</p>
+
+<div align="center" style="padding: 20px 0;">
+    Visitor Count<br>
+    <img src="https://profile-counter.glitch.me/abilene-may/count.svg" alt="Visitor count" style="border-radius: 8px; padding: 5px; background-color: #f0f0f0;" />
+</div>
+
+<p align="right">
+    <a href="#top">
+        <img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" />
+    </a>
+</p>
+
