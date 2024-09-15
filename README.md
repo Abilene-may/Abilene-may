@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my little corner of work! 👋</h1>
 
 <div>
-    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img height=200 align="right" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=abilene-may&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=300" alt="Most Used Languages" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abilene-may&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=abilene-may&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=300" alt="Most Used Languages" />
 </div>
 
 <div align="center" style="clear: both; padding: 20px 0;">
@@ -14,7 +14,6 @@
 </div>
 
 <div align="center" style="padding: 20px 0;">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abilene-may&theme=radical" height="180em" alt="Stats"/>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abilene-may&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abilene-may&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abilene-may&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
